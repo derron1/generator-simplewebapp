@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "A generator for a simple web app that is opinionated about scss, jade, and coffeescript",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "scss",
+    "coffeescript",
+    "jade",
+    "livereload",
+    "connect"
   ],
   "homepage": "https://github.com/Jorshasaur/generator-simplewebapp",
   "bugs": "https://github.com/Jorshasaur/generator-simplewebapp/issues",
