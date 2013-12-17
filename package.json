@@ -1,0 +1,35 @@
+{
+  "name": "generator-simplewebapp",
+  "version": "0.0.0",
+  "description": "A generator for Yeoman",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/Jorshasaur/generator-simplewebapp",
+  "bugs": "https://github.com/Jorshasaur/generator-simplewebapp/issues",
+  "author": {
+    "name": "Josh Barber",
+    "email": "",
+    "url": "https://github.com/Jorshasaur"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jorshasaur/generator-simplewebapp.git"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.14.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
