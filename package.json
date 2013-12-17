@@ -1,7 +1,7 @@
 {
   "name": "generator-simplewebapp",
-  "version": "0.0.0",
-  "description": "A generator for Yeoman",
+  "version": "1.0.0",
+  "description": "A generator for a simple web app that is opinionated about scss, jade, and coffeescript",
   "keywords": [
     "yeoman-generator"
   ],
