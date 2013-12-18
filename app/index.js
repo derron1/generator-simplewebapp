@@ -25,10 +25,6 @@ SimplewebappGenerator.prototype.app = function app() {
 
   this.mkdir('src');
   this.mkdir('src/scripts');
-  this.mkdir('src/scripts/controllers');
-  this.mkdir('src/scripts/services');
-  this.mkdir('src/scripts/directives');
-  this.mkdir('src/scripts/filters');
   this.mkdir('src/styles');
   this.mkdir('src/views');
 
