@@ -42,4 +42,5 @@ SimplewebappGenerator.prototype.projectfiles = function projectfiles() {
   this.copy('_app.coffee', 'src/scripts/app.coffee');
   this.copy('_.gitignore', '.gitignore');
   this.copy('_.bowerrc', '.bowerrc');
+  this.copy('_bower.json', 'bower.json');
 };
